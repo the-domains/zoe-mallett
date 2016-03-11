@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Zoe Mallett]]></title>
         <description><![CDATA[Zoe Mallett]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zoe-mallett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 11:18:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 11:18:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zoe-mallett/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Family AND Freedom the WELLthy Way</p>]]></description>
-            <link>undefined56e05f34-62d7-431e-8fb7-91b18b2d8196/index.html</link>
+            <link>https://thegrid.ai/zoe-mallett/56e05f34-62d7-431e-8fb7-91b18b2d8196/index.html</link>
             <guid isPermaLink="false">56e05f34-62d7-431e-8fb7-91b18b2d8196</guid>
-            <pubDate>Fri, 11 Mar 2016 11:18:01 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 11:18:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
