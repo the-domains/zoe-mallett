@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Zoe Mallett]]></title>
+        <description><![CDATA[Zoe Mallett]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 11:18:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Family AND Freedom the WELLthy Way</p>]]></description>
+            <link>undefined56e05f34-62d7-431e-8fb7-91b18b2d8196/index.html</link>
+            <guid isPermaLink="false">56e05f34-62d7-431e-8fb7-91b18b2d8196</guid>
+            <pubDate>Fri, 11 Mar 2016 11:18:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
